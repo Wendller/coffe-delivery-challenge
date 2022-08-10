@@ -1,0 +1,14 @@
+export * as TraditionalExpress from "./traditional.svg";
+export * as TraditionalAmerican from "./american.svg";
+export * as Creamy from "./creamy.svg";
+export * as MilkAndCoffe from "./milk.svg";
+export * as Latte from "./latte.svg";
+export * as Capuccino from "./capuccino.svg";
+export * as Mocaccino from "./mocaccino.svg";
+export * as ColdExpress from "./cold.svg";
+export * as Macchiato from "./macchiato.svg";
+export * as HotChocolate from "./hot-chocolate.svg";
+export * as Cuban from "./cuban.svg";
+export * as Hawaiian from "./hawaiian.svg";
+export * as Arabic from "./arabic.svg";
+export * as Irish from "./irish.svg";
